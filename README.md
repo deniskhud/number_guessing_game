@@ -7,4 +7,4 @@ A number guessing game written in C++
 - the game will give hints whether the number is higher or lower
 
 ## Project URL
-[Project Repository](https://github.com/deniskhud/number_guessing_game)
+[Project Repository](https://roadmap.sh/projects/number-guessing-game)
